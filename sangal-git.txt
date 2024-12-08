@@ -1,3 +1,2 @@
 Text Awal Belajar GIT untuk Pemula    
 - Edit Pertama
-- Menambahkan setelah edit
